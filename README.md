@@ -52,5 +52,4 @@ You will see the underwrite in the console, and the script regenerates `cornerst
 The asset is synthetic and the assumptions are illustrative, so the figures are not a real deal. Rent is
 grown at a single rate rather than a unit-level rent roll, taxes and depreciation are not modelled (it is
 a pre-tax underwrite), debt is a simple amortizing loan (no IO period or refinancing), and the exit is a
-single forward-cap assumption. The point is to show I can underwrite a real-estate acquisition end to
-end, pull the returns an IC needs, and frame the decision, in Excel and in code.
+single forward-cap assumption.
